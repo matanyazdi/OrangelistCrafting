@@ -1,3 +1,3 @@
 # OrangelistCrafting
-gang crafting
+job crafting
 check the config
